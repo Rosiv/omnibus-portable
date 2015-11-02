@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+# Perform necessary bootstrapping-msi setup steps
+# before package is installed.
+#
+
+echo "You're about to install bootstrapping-msi!"

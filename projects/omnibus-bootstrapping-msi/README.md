@@ -1,7 +1,7 @@
-bootstrapping Omnibus project
-=============================
+bootstrapping-msi Omnibus project
+=================================
 This project creates full-stack platform-specific packages for
-`bootstrapping`!
+`bootstrapping-msi`!
 
 Installation
 ------------
@@ -19,7 +19,7 @@ Usage
 You create a platform-specific package using the `build project` command:
 
 ```shell
-$ bin/omnibus build bootstrapping
+$ bin/omnibus build bootstrapping-msi
 ```
 
 The platform/architecture type of the package created will match the platform
@@ -33,15 +33,15 @@ You can clean up all temporary files generated during the build process with
 the `clean` command:
 
 ```shell
-$ bin/omnibus clean bootstrapping
+$ bin/omnibus clean bootstrapping-msi
 ```
 
 Adding the `--purge` purge option removes __ALL__ files generated during the
-build including the project install directory (`/opt/bootstrapping`) and
+build including the project install directory (`/opt/bootstrapping-msi`) and
 the package cache directory (`/var/cache/omnibus/pkg`):
 
 ```shell
-$ bin/omnibus clean bootstrapping --purge
+$ bin/omnibus clean bootstrapping-msi --purge
 ```
 
 ### Publish
@@ -110,10 +110,10 @@ section:
 
 ```shell
 $ bundle exec kitchen login ubuntu-1204
-[vagrant@ubuntu...] $ cd bootstrapping
+[vagrant@ubuntu...] $ cd bootstrapping-msi
 [vagrant@ubuntu...] $ bundle install
 [vagrant@ubuntu...] $ ...
-[vagrant@ubuntu...] $ bin/omnibus build bootstrapping
+[vagrant@ubuntu...] $ bin/omnibus build bootstrapping-msi
 ```
 
 For a complete list of all commands and platforms, run `kitchen list` or

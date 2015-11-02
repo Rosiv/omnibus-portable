@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary bootstrapping-msi removal steps
+# after package is uninstalled.
+#
+
+echo "bootstrapping-msi has been uninstalled!"
+
+exit 0
