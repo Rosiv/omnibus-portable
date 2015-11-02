@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"context:ETI"&Aws::Errors::ServiceError#context;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"J@return [Seahorse::Client::RequestContext] The context of the request;To:RDoc::Markup::Verbatim;	[I"<that triggered the remote service to return this error.;T:@format0:
+@fileI"lib/aws-sdk-core/errors.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::Errors::ServiceError;FcRDoc::NormalClass0

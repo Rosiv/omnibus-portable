@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"target_resource_class_name:ETI"SAws::Resources::Documenter::BaseOperationDocumenter#target_resource_class_name;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@@return [String,nil] Returns the name of the resource class;To:RDoc::Markup::Verbatim;	[I":returned by this operation. This is the base name of
+;TI"Athe class without a namespace prefix. Returns `nil` if this
+;TI"4operation does not return any resource objects.;T:@format0:
+@fileI"Blib/aws-sdk-resources/documenter/base_operation_documenter.rb;T:0@omit_headings_from_table_of_contents_below0F@I"8Aws::Resources::Documenter::BaseOperationDocumenter;FcRDoc::NormalClass0

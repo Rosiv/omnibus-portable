@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"client:ETI"$Aws::Resources::Resource#client;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4Marked private to prevent double documentation ;TI"@return [Client];T:
+@fileI"&lib/aws-sdk-resources/resource.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::Resources::Resource;FcRDoc::NormalClass0

@@ -1,0 +1,13 @@
+compiling yajl.c
+compiling yajl_alloc.c
+compiling yajl_buf.c
+compiling yajl_encode.c
+compiling yajl_gen.c
+yajl_gen.c: In function 'yajl_gen_integer':
+yajl_gen.c:213:5: warning: unknown conversion type character 'l' in format [-Wformat]
+yajl_gen.c:213:5: warning: too many arguments for format [-Wformat-extra-args]
+compiling yajl_lex.c
+compiling yajl_parser.c
+compiling yajl_tree.c
+compiling yajl_version.c
+linking shared-object libyajl.so

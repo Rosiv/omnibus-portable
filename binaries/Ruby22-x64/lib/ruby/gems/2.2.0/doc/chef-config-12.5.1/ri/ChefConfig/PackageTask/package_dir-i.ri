@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"package_dir:ETI"(ChefConfig::PackageTask#package_dir;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IDirectory used to store package files and output that is generated. ;TI"CThis has the same meaning (or lack thereof) as package_dir in ;TI"rake/packagetask.;T:
+@fileI"$lib/chef-config/package_task.rb;T:0@omit_headings_from_table_of_contents_below0F@I"ChefConfig::PackageTask;FcRDoc::NormalClass0

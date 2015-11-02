@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"queue_url:ETI"$Aws::SQS::QueuePoller#queue_url;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [String];T:
+@fileI"7lib/aws-sdk-resources/services/sqs/queue_poller.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::SQS::QueuePoller;FcRDoc::NormalClass0

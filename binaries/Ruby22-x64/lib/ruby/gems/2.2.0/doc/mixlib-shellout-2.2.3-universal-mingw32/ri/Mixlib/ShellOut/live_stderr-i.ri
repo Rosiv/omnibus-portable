@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"live_stderr:ETI"!Mixlib::ShellOut#live_stderr;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"PWhen live_stderr is set, the stderr of the subprocess will be copied to it ;TI""as the subprocess is running.;T:
+@fileI"lib/mixlib/shellout.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Mixlib::ShellOut;FcRDoc::NormalClass0

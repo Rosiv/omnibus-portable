@@ -1,0 +1,16 @@
+d:/ruby/binaries/Ruby22-x64/bin/ruby.exe -r ./siteconf20151102-10448-xp2572.rb extconf.rb
+$(cflags)
+-L. 
+checking for dlfcn.h... no
+checking for dlopen() in -ldl... no
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+generating dlopen-x64-mingw32.def
+compiling dlopen.c
+linking shared-object ffi_yajl/ext/dlopen.so
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 dlopen.so ./.gem.20151102-10448-wrsr7j/ffi_yajl/ext

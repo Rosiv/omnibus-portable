@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"errors:ETI")Aws::S3::MultipartUploadError#errors;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"B@return [Array<StandardError>] The list of errors encountered;To:RDoc::Markup::Verbatim;	[I"+when uploading or aborting the upload.;T:@format0:
+@fileI"@lib/aws-sdk-resources/services/s3/multipart_upload_error.rb;T:0@omit_headings_from_table_of_contents_below0F@I""Aws::S3::MultipartUploadError;FcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"headers:ETI",Seahorse::Client::Http::Request#headers;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"3@return [Headers] The hash of request headers.;T:
+@fileI"(lib/seahorse/client/http/request.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Seahorse::Client::Http::Request;FcRDoc::NormalClass0

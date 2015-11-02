@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"param_list:ETI"0Aws::Query::ParamList::IoWrapper#param_list;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [ParamList];T:
+@fileI")lib/aws-sdk-core/query/param_list.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Aws::Query::ParamList::IoWrapper;FcRDoc::NormalClass0

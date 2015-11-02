@@ -1,0 +1,3 @@
+U:RDoc::Attr[iI"
+error:ETI"%Seahorse::Client::Response#error;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"!@return [StandardError, nil];T:
+@fileI"$lib/seahorse/client/response.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Seahorse::Client::Response;FcRDoc::NormalClass0

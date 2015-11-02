@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"config:ETI",Seahorse::Client::RequestContext#config;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"6@return [Configuration] The client configuration.;T:
+@fileI"+lib/seahorse/client/request_context.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Seahorse::Client::RequestContext;FcRDoc::NormalClass0

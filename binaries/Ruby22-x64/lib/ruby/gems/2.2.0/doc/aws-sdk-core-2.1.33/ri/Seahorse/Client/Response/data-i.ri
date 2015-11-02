@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	data:ETI"$Seahorse::Client::Response#data;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"K@return The response data.  This may be `nil` if the response contains;To:RDoc::Markup::Verbatim;	[I"an {#error}.;T:@format0:
+@fileI"$lib/seahorse/client/response.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Seahorse::Client::Response;FcRDoc::NormalClass0

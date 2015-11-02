@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"software:ETI"Omnibus::Builder#software;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [Software];To:RDoc::Markup::Verbatim;	[I"6the software definition that created this builder;T:@format0:
+@fileI"lib/omnibus/builder.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Omnibus::Builder;FcRDoc::NormalClass0

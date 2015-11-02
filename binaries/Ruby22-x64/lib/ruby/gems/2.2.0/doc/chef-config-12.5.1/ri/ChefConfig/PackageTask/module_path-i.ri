@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"module_path:ETI"(ChefConfig::PackageTask#module_path;FI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"FThis is the module name as it appears on the path "lib/module/". ;TI"Me.g. for module_name  "ChefDK", you'd want module_path to be "chef-dk". ;TI"0The default is module_name but lower-cased.;T:
+@fileI"$lib/chef-config/package_task.rb;T:0@omit_headings_from_table_of_contents_below0F@I"ChefConfig::PackageTask;FcRDoc::NormalClass0

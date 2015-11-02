@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"Mixlib::CLI#options;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OGives the command line options definition as configured in the DSL. These ;TI"Lare used by #parse_options to generate the option parsing code. To get ;TI"2the values supplied by the user, see #config.;T:
+@fileI"lib/mixlib/cli.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Mixlib::CLI;FcRDoc::NormalModule0

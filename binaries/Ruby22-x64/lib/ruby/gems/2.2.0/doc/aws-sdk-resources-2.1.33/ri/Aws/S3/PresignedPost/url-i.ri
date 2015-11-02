@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"url:ETI"Aws::S3::PresignedPost#url;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"G@return [String] The URL to post a file upload to.  This should be;To:RDoc::Markup::Verbatim;	[I"the form action.;T:@format0:
+@fileI"8lib/aws-sdk-resources/services/s3/presigned_post.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::S3::PresignedPost;FcRDoc::NormalClass0

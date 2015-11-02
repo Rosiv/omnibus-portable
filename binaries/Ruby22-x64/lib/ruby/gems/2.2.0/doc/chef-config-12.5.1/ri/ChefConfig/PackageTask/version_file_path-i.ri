@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"version_file_path:ETI".ChefConfig::PackageTask#version_file_path;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"TPath to a VERSION file with a single string that contains the package version. ;TI"*By default, this is root_path/VERSION;T:
+@fileI"$lib/chef-config/package_task.rb;T:0@omit_headings_from_table_of_contents_below0F@I"ChefConfig::PackageTask;FcRDoc::NormalClass0

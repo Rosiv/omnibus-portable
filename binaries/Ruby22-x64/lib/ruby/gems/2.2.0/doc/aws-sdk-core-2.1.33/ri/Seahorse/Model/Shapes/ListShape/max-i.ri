@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"max:ETI"+Seahorse::Model::Shapes::ListShape#max;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [Integer, nil];T:
+@fileI"!lib/seahorse/model/shapes.rb;T:0@omit_headings_from_table_of_contents_below0F@I"'Seahorse::Model::Shapes::ListShape;FcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"pattern:ETI" Aws::Log::Formatter#pattern;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [String];T:
+@fileI"&lib/aws-sdk-core/log/formatter.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::Log::Formatter;FcRDoc::NormalClass0

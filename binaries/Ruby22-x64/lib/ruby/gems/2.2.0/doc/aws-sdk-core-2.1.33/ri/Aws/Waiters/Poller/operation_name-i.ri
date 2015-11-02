@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"operation_name:ETI"(Aws::Waiters::Poller#operation_name;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@return [Symbol];T:
+@fileI"'lib/aws-sdk-core/waiters/poller.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Aws::Waiters::Poller;FcRDoc::NormalClass0

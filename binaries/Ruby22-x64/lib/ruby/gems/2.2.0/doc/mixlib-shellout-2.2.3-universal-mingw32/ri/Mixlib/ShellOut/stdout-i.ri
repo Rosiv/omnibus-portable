@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"stdout:ETI"Mixlib::ShellOut#stdout;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"-Data written to stdout by the subprocess;T:
+@fileI"lib/mixlib/shellout.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Mixlib::ShellOut;FcRDoc::NormalClass0

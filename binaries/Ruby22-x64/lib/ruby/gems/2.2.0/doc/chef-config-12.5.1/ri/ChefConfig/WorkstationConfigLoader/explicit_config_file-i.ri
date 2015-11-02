@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"explicit_config_file:ETI"=ChefConfig::WorkstationConfigLoader#explicit_config_file;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"YPath to a config file requested by user, (e.g., via command line option). Can be nil;T:
+@fileI"1lib/chef-config/workstation_config_loader.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(ChefConfig::WorkstationConfigLoader;FcRDoc::NormalClass0

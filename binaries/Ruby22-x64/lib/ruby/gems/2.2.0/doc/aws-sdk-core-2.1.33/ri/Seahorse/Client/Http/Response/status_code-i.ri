@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"status_code:ETI"1Seahorse::Client::Http::Response#status_code;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"D@return [Integer] Returns `0` if the request failed to generate;To:RDoc::Markup::Verbatim;	[I"any response.;T:@format0:
+@fileI")lib/seahorse/client/http/response.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Seahorse::Client::Http::Response;FcRDoc::NormalClass0

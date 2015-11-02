@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"response:ETI"5Aws::Waiters::Errors::FailureStateError#response;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"C@return [Seahorse::Client::Response] The response that matched;To:RDoc::Markup::Verbatim;	[I"the failure state.;T:@format0:
+@fileI"'lib/aws-sdk-core/waiters/errors.rb;T:0@omit_headings_from_table_of_contents_below0F@I",Aws::Waiters::Errors::FailureStateError;FcRDoc::NormalClass0

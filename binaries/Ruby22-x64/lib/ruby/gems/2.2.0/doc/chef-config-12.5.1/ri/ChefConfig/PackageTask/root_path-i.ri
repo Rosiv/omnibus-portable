@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"root_path:ETI"&ChefConfig::PackageTask#root_path;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"RFull path to root of top-level repository.  All other files (like VERSION or ;TI";lib/<module_path>/version.rb are rooted at this path).;T:
+@fileI"$lib/chef-config/package_task.rb;T:0@omit_headings_from_table_of_contents_below0F@I"ChefConfig::PackageTask;FcRDoc::NormalClass0
