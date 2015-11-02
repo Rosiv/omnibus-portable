@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary bootstrapping removal steps
+# after package is uninstalled.
+#
+
+echo "bootstrapping has been uninstalled!"
+
+exit 0
